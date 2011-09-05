@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  recipe_id: 1
+  order_of: 1
+  amount: 1.5
+  ingredient: MyString
+  instruction: MyString
+  unit: MyString
+
+two:
+  recipe_id: 1
+  order_of: 1
+  amount: 1.5
+  ingredient: MyString
+  instruction: MyString
+  unit: MyString
